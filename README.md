@@ -64,23 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Noozra is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Noozra provides a free News API that aggregates articles across categories such as politics, science, world, weather, finance, sports, entertainment, health, and AI. Users can retrieve up to 100 articles per day with a bearer token, and a Pro plan offers higher limits for $9 per month. Each article includes headline, summary, source, URL, and publication date, and links back to the original publisher. The platform also hosts community features like forums and games.
 
-**Areas:** Company
+**Areas:** News · API · Free · Community · AI
 
 ## Noozra on APIs.io
 
 Everything profiled for Noozra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/noozra/](https://apis.io/providers/noozra/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Noozra News API](https://apis.io/apis/noozra/noozra-news-api/) — Provides aggregated news articles across categories with free 100/day limit and Pro plan.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Noozra Domain Security](https://apis.io/security/noozra/noozra-domain-security/)
+- [Noozra Vulnerability Disclosure](https://apis.io/security/noozra/noozra-vulnerability-disclosure/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://noozra.com)
+- [Documentation](https://noozra.com/api)
+- [API reference](https://noozra.com/api)
+- [Security](https://noozra.com/security-policy)
+- [Terms of service](https://noozra.com/terms)
+- [Privacy policy](https://noozra.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/noozra/](https://apis.io/providers/noozra/).
+**Kin Score 21.4** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 34.2 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/noozra/](https://apis.io/providers/noozra/).
 
 ## How this profile is made
 
